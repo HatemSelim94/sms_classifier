@@ -1,5 +1,6 @@
 # SMS Classifier:
 Using the sms spam [dataset](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) to train a network to classifiy sms messages.
+The notebook file can be viewed [here](https://nbviewer.jupyter.org/github/HatemSelim94/sms_classifier/blob/main/fcc_sms_text_classification%20.ipynb).
 ### **Dataset**:
 the data set contains labled messages.
 
